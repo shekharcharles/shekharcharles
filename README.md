@@ -28,9 +28,7 @@ r00t@kali:~$ ls -la ~/projects/
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [**NucleiFuzzer**](https://github.com/shekharcharles/NucleiFuzzer) | Automated fuzzing wrapper around Nuclei templates | `[ACTIVE]` |
 | [**AndroSuite**](https://github.com/shekharcharles/AndroSuite) | Android app security analysis & testing toolkit | `[ACTIVE]` |
-| [**headroom**](https://github.com/chopratejas/headroom) | LLM proxy — Claude context compression, cuts API costs | `[CONTRIBUTING]` |
 | **Noxis v2** | Full-stack pentest management platform | `[CLASSIFIED]` |
 
 ---
