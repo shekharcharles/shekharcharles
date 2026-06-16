@@ -1,59 +1,50 @@
 <div align="center">
 
-```
- _____ _           _    _
-/  ___| |         | |  | |
-\ `--.| |__   ___| | _| |__   __ _ _ __
- `--. \ '_ \ / _ \ |/ / '_ \ / _` | '__|
-/\__/ / | | |  __/   <| | | | (_| | |
-\____/|_| |_|\___|_|\_\_| |_|\__,_|_|
-```
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=80&lines=r00t;security+researcher;tool+builder;%24+whoami+_)
 
-**Security Researcher · Tool Builder · OSS Contributor**
+<br>
+
+[![](https://img.shields.io/badge/ROLE-Security%20Researcher-00ff41?style=for-the-badge&labelColor=0d1117&color=00ff41&logo=hackthebox&logoColor=00ff41)](https://github.com/shekharcharles)
+[![](https://img.shields.io/badge/FOCUS-Offensive%20Security-00ff41?style=for-the-badge&labelColor=0d1117&color=00ff41&logo=kalilinux&logoColor=00ff41)](https://github.com/shekharcharles)
+[![](https://img.shields.io/badge/STATUS-Building%20%26%20Breaking-00ff41?style=for-the-badge&labelColor=0d1117&color=00ff41)](https://github.com/shekharcharles)
 
 </div>
 
 ---
 
-I build offensive security tools and infrastructure — then break things to make them better.
-Currently working on pentest platforms, Android analysis tooling, and LLM cost optimization.
+```bash
+r00t@kali:~$ whoami
+  security researcher + tool builder
+  i break things to understand them. then build better ones.
 
----
+r00t@kali:~$ cat /etc/skills
+  Languages   ->  Python   TypeScript   Bash   JavaScript
+  Frameworks  ->  Next.js  FastAPI      React  Node.js
+  Security    ->  Nuclei   Frida        ADB    Burp Suite
+  Infra       ->  Linux    Docker       SQLite Uvicorn
 
-### Tools & Stack
-
+r00t@kali:~$ ls -la ~/projects/
 ```
-Languages    Python  TypeScript  Bash  JavaScript
-Frameworks   Next.js  FastAPI  React  Node.js
-Security     Nuclei  Frida  ADB  Burp Suite
-Infra        Linux  Docker  SQLite  Uvicorn
-```
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [**NucleiFuzzer**](https://github.com/shekharcharles/NucleiFuzzer) | Automated fuzzing wrapper around Nuclei templates | `[ACTIVE]` |
+| [**AndroSuite**](https://github.com/shekharcharles/AndroSuite) | Android app security analysis & testing toolkit | `[ACTIVE]` |
+| [**headroom**](https://github.com/chopratejas/headroom) | LLM proxy — Claude context compression, cuts API costs | `[CONTRIBUTING]` |
+| **Noxis v2** | Full-stack pentest management platform | `[CLASSIFIED]` |
 
 ---
-
-### Projects
-
-| Project | What it does |
-|---|---|
-| [**NucleiFuzzer**](https://github.com/shekharcharles/NucleiFuzzer) | Automated fuzzing wrapper around Nuclei templates |
-| [**AndroSuite**](https://github.com/shekharcharles/AndroSuite) | Android app analysis and security testing toolkit |
-| [**headroom**](https://github.com/chopratejas/headroom) | LLM proxy that compresses Claude context — cuts API costs |
-| **Noxis v2** *(private)* | Full-stack pentest management platform |
-
----
-
-### GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shekharcharles&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=stars)
+![Stats](https://github-readme-stats.vercel.app/api?username=shekharcharles&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&hide=stars&rank_icon=github)
 &nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shekharcharles&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shekharcharles&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Open to collaboration on security tooling and research.</sub>
+<sub><code>r00t@kali:~$ █</code></sub>
 </div>
