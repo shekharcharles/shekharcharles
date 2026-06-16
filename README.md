@@ -29,7 +29,7 @@ r00t@kali:~$ ls -la ~/projects/
 | Project | Description | Status |
 |---------|-------------|--------|
 | [**AndroSuite**](https://github.com/shekharcharles/AndroSuite) | Android app security analysis & testing toolkit | `[ACTIVE]` |
-| **Noxis v2** | Full-stack pentest management platform | `[CLASSIFIED]` |
+| **Noxis** | Full-stack pentest management platform | `[CLASSIFIED]` |
 
 ---
 
